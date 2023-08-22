@@ -1,3 +1,5 @@
+// Desenvolver um programa que efetue o cálculo da média aritmética de 4 notas de entrada.
+
 import 'dart:io';
 
 void main() {

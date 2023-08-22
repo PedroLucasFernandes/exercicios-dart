@@ -1,4 +1,5 @@
 // Desenvolver um programa que efetue o cálculo da média ponderada de 4 notas de entrada.
+
 import 'dart:io';
 
 void main() {

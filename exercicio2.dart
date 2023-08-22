@@ -1,3 +1,5 @@
+// Desenvolver um programa que efetue o cálculo da área do quadrado.
+
 import 'dart:io';
 
 void main() {
